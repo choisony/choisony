@@ -22,4 +22,6 @@
 </p>
 <br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choism9854)](https://solved.ac/choism9854)
+<p align="cneter"> [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choism9854)](https://solved.ac/choism9854) </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisony)](https://github.com/choisony/github-readme-stats)
