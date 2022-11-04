@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SungminChoi&fontSize=70&animation=twinkling)
 
-### Hi there 👋
+<h2 align="center">👋 Hi there 👋</h2>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
