@@ -14,14 +14,6 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
-<br>
-<h3 align="center">🪄 Blog 🪄</h3>
-<div align="center" style="text-align:center">
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@choison)
-</div>
-<br>
-
-
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://velog.io/@choison"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@choison"/></a>&nbsp
@@ -30,4 +22,4 @@
 </p>
 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:indianchoi9854@gmail.com)](mailto:indianchoi9854@gmail.com)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choism9854)](https://solved.ac/choism9854)
